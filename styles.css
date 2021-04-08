@@ -386,13 +386,11 @@ div.footer h6 {
     .nav-links{
         position: absolute;
         right: 0;
-        top: 6vh;
+        top: 8vh;
         height: 20vh;
-        
         width:30%;
         flex-direction: column;
         display: flex;
-        
         flex-direction: column;
         align-items: center;
         transform: translateX(100%);
